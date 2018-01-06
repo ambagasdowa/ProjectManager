@@ -1,0 +1,16 @@
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
+#find -name '*.html' -print0 | xargs -0 -I {} sed -ie 's///' {}
